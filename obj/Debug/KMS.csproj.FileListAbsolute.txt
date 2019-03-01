@@ -1,0 +1,76 @@
+C:\Users\Narsinh\documents\visual studio 2017\Projects\KMS\KMS\obj\Debug\KMS.csprojResolveAssemblyReference.cache
+C:\Users\Narsinh\documents\visual studio 2017\Projects\KMS\KMS\obj\Debug\KMS.Dashboard.resources
+C:\Users\Narsinh\documents\visual studio 2017\Projects\KMS\KMS\obj\Debug\KMS.Form1.resources
+C:\Users\Narsinh\documents\visual studio 2017\Projects\KMS\KMS\obj\Debug\KMS.Properties.Resources.resources
+C:\Users\Narsinh\documents\visual studio 2017\Projects\KMS\KMS\obj\Debug\KMS.csproj.GenerateResource.Cache
+C:\Users\Narsinh\documents\visual studio 2017\Projects\KMS\KMS\bin\Debug\KMS.exe.config
+C:\Users\Narsinh\documents\visual studio 2017\Projects\KMS\KMS\bin\Debug\KMS.exe
+C:\Users\Narsinh\documents\visual studio 2017\Projects\KMS\KMS\bin\Debug\KMS.pdb
+C:\Users\Narsinh\documents\visual studio 2017\Projects\KMS\KMS\obj\Debug\KMS.exe
+C:\Users\Narsinh\documents\visual studio 2017\Projects\KMS\KMS\obj\Debug\KMS.pdb
+C:\Users\Narsinh\documents\visual studio 2017\Projects\KMS\KMS\obj\Debug\KMS.Admin_Panel.resources
+C:\Users\Narsinh\documents\visual studio 2017\Projects\KMS\KMS\obj\Debug\KMS.Update_Profile.resources
+C:\Users\Narsinh\documents\visual studio 2017\Projects\KMS\KMS\obj\Debug\KMS.Expense_Panel.resources
+C:\Users\Narsinh\documents\visual studio 2017\Projects\KMS\KMS\obj\Debug\KMS.Bank.resources
+<<<<<<< HEAD
+C:\Users\Syed Anas Ali\Documents\GitHub\KMS\KMS\obj\Debug\KMS.csprojResolveAssemblyReference.cache
+C:\Users\Syed Anas Ali\Documents\GitHub\KMS\KMS\obj\Debug\KMS.Admin_Panel.resources
+C:\Users\Syed Anas Ali\Documents\GitHub\KMS\KMS\obj\Debug\KMS.Bank.resources
+C:\Users\Syed Anas Ali\Documents\GitHub\KMS\KMS\obj\Debug\KMS.Dashboard.resources
+C:\Users\Syed Anas Ali\Documents\GitHub\KMS\KMS\obj\Debug\KMS.Expense_Panel.resources
+C:\Users\Syed Anas Ali\Documents\GitHub\KMS\KMS\obj\Debug\KMS.Form1.resources
+C:\Users\Syed Anas Ali\Documents\GitHub\KMS\KMS\obj\Debug\KMS.Properties.Resources.resources
+C:\Users\Syed Anas Ali\Documents\GitHub\KMS\KMS\obj\Debug\KMS.Update_Profile.resources
+C:\Users\Syed Anas Ali\Documents\GitHub\KMS\KMS\obj\Debug\KMS.csproj.GenerateResource.Cache
+C:\Users\Syed Anas Ali\Documents\GitHub\KMS\KMS\obj\Debug\KMS.csproj.CoreCompileInputs.cache
+C:\Users\Syed Anas Ali\Documents\GitHub\KMS\KMS\obj\Debug\KMS.exe
+C:\Users\Syed Anas Ali\Documents\GitHub\KMS\KMS\obj\Debug\KMS.pdb
+=======
+C:\Users\Narsinh\documents\visual studio 2017\Projects\KMS\KMS\obj\Debug\KMS.Customers.resources
+>>>>>>> ebf4fe3cf651dd5a33ee03cb29060a56ea926454
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+C:\Users\Syed Anas Ali\Documents\GitHub\KMS\KMS\bin\Debug\KMS.exe.config
+C:\Users\Syed Anas Ali\Documents\GitHub\KMS\KMS\bin\Debug\KMS.exe
+C:\Users\Syed Anas Ali\Documents\GitHub\KMS\KMS\bin\Debug\KMS.pdb
+C:\Users\Syed Anas Ali\Documents\GitHub\KMS\KMS\obj\Debug\KMS.Customers.resources
+C:\Users\Narsinh\documents\visual studio 2017\Projects\KMS\KMS\obj\Debug\KMS.Package.resources
+>>>>>>> 0950b06a06f8ad32a171e82a1bbf3ad17f0e9ce7
+C:\Users\Syed Anas Ali\Documents\GitHub\KMS\KMS\obj\Debug\KMS.Package.resources
+<<<<<<< HEAD
+D:\Tools and Apps\GitHub\KMS\KMS\bin\Debug\KMS.exe.config
+D:\Tools and Apps\GitHub\KMS\KMS\bin\Debug\KMS.exe
+D:\Tools and Apps\GitHub\KMS\KMS\bin\Debug\KMS.pdb
+D:\Tools and Apps\GitHub\KMS\KMS\obj\Debug\KMS.csprojResolveAssemblyReference.cache
+D:\Tools and Apps\GitHub\KMS\KMS\obj\Debug\KMS.Admin_Panel.resources
+D:\Tools and Apps\GitHub\KMS\KMS\obj\Debug\KMS.Bank.resources
+D:\Tools and Apps\GitHub\KMS\KMS\obj\Debug\KMS.Customers.resources
+D:\Tools and Apps\GitHub\KMS\KMS\obj\Debug\KMS.Dashboard.resources
+D:\Tools and Apps\GitHub\KMS\KMS\obj\Debug\KMS.Expense_Panel.resources
+D:\Tools and Apps\GitHub\KMS\KMS\obj\Debug\KMS.Form1.resources
+D:\Tools and Apps\GitHub\KMS\KMS\obj\Debug\KMS.Package.resources
+D:\Tools and Apps\GitHub\KMS\KMS\obj\Debug\KMS.Properties.Resources.resources
+D:\Tools and Apps\GitHub\KMS\KMS\obj\Debug\KMS.Update_Profile.resources
+D:\Tools and Apps\GitHub\KMS\KMS\obj\Debug\KMS.csproj.GenerateResource.Cache
+D:\Tools and Apps\GitHub\KMS\KMS\obj\Debug\KMS.csproj.CoreCompileInputs.cache
+D:\Tools and Apps\GitHub\KMS\KMS\obj\Debug\KMS.exe
+D:\Tools and Apps\GitHub\KMS\KMS\obj\Debug\KMS.pdb
+D:\Tools and Apps\GitHub\KMS\KMS\obj\Debug\KMS.Inventory_Panel.resources
+>>>>>>> 59ee30f28fc28fa58010d24d9d656a7d159d326c
+D:\Tools and Apps\GitHub\KMS\KMS\obj\Debug\KMS.Modelsee30f28fc28fa58010d24d9d656a7d159d326c.Inventory_Panel.resources
+=======
+=======
+C:\Users\Narsinh\documents\visual studio 2017\Projects\KMS\KMS\obj\Debug\KMS.Package.resources
+>>>>>>> parent of 74d81a1... mm
+=======
+>>>>>>> parent of e624f26... Merge branch 'master' of https://github.com/dynamic-solutioner/KMS
+=======
+>>>>>>> parent of ba5b198... Merge branch 'master' of https://github.com/dynamic-solutioner/KMS
+=======
+>>>>>>> parent of ba5b198... Merge branch 'master' of https://github.com/dynamic-solutioner/KMS
+=======
+>>>>>>> parent of e624f26... Merge branch 'master' of https://github.com/dynamic-solutioner/KMS
+>>>>>>> parent of 93c58ee... 3:14
